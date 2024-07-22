@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.caroseuldiv {
+    border-radius: 20px;
+}
+
+.img {
+    border-radius: 10px;
+}
+
+.imgsize {
+    height: 50px;
+}
+
+#exploremenu {
+    color: black;
+}
+
+#delivery {
+    color: black;
+}
+
+#followus {
+    color: black;
+}
+
+.banner {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png');
+    height: 100vh;
+    background-size: cover;
+    width: 100%;
+}
+
+.viewmenu {
+    color: white;
+    background-color: #d0b200;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    border: 0px;
+}
+
+.ordernow {
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: transparent;
+    color: white;
+    border-color: #d0b200;
+}
+
+.wcusection {
+    background-color: #f9fbfe;
+}
+
+.wcuheading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.wcuparagraph {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.wcuheading {
+    font-size: 30px;
+}
+
+.wcucard {
+    border-radius: 20px;
+    margin-bottom: 5px;
+    border-color: 1px solid black;
+}
+
+.menu-card-container {
+    border-radius: 20px;
+}
+
+.menu-image-size {
+    border-radius: 20px;
+}
+
+.menu-card-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.healthycardcontainer {
+    background-color: #f9fbfe;
+    padding: 20px;
+
+}
+
+.healthysectionheading {
+    font-size: 20px;
+    font-family: "roboto";
+    margin-top: 8px;
+    font-weight: bold;
+}
+
+.healthysectionparagrph {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+.healthysectionbutton {
+    color: white;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    background-color: #d0b200;
+    margin-bottom: 5px;
+    float: left;
+}
+
+.giftbutton {
+    color: white;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    background-color: #d0b200;
+    margin-bottom: 5px;
+    float: left;
+}
+
+.healthyfoodimage {
+    width: 100%;
+}
+
+.deliverypaymentimage {
+    height: 250px;
+}
+
+.paymentimages {
+    width: 50px;
+    height: 50px;
+    margin-right: 18px;
+
+}
+
+.thankingyousection {
+    background-image: radial-gradient(white, orange);
+}
+
+.thankingheading {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "roboto";
+}
+
+.thankingyoupara {
+    font-size: 20px;
+    color: #5a7184;
+}
+
+.thankingyouimage {
+    height: 300px;
+}
+
+.reedembutton {
+    color: white;
+    background-color: #d0b200;
+}
+
+.giftimagesize {
+    height: 400px;
+    padding: 50px;
+}
+
+.followusheading {
+    color: black;
+    font-family: "roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.followusimagebackground {
+    background-color: #f2e9d3;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding: 4px;
+    padding-top: 25px;
+    border-radius: 50px;
+}
+
+.followusimagecolour {
+    color: #d0b200;
+}
+
+.footersection {
+    background-color: #0d2436;
+}
+
+.footersectionheading {
+    color: white;
+    font-size: 50px;
+    font-style: italic;
+    font-family: "Caveat";
+    text-align: center;
+}
+
+.footersectionpara {
+    color: white;
+    font-size: 40px;
+    font-style: italic;
+    font-family: "Caveat";
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
